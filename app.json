@@ -1,5 +1,5 @@
 {
-    "name": "Yukki Chat Bot",
+    "name": "Chat Bot",
     "description": "A simple Chat-Bot written in Pyrogram using MongoDB",
     "logo": "https://telegra.ph/file/78bc88b883b22024002cd.jpg",
     "keywords": [
@@ -17,22 +17,22 @@
         "size": "free"
       }
     },
-    "repository": "https://github.com/TeamYukki/YukkiChatBot",
+    "repository": "https://github.com/ribfirst/Zc",
     "env": {
       "API_ID": {
         "description": "Get this value from my.telegram.org/apps.",
         "required": true,
-        "value": ""
+        "value": "14547608"
       },
       "API_HASH": {
         "description": "Get this value from my.telegram.org/apps.",
         "required": true,
-        "value": ""
+        "value": "c6c5e34f44bc5dd80dd2a4b894c7bcff"
       },
       "BOT_TOKEN": {
         "description": "A Bot token from @BotFather",
         "required": true,
-        "value": ""
+        "value": "5462008662:AAGyuXnMg3y-UQDIuPIdRDi9xw2qYeu-UXY"
       },
       "LOG_GROUP_ID": {
         "description": "A group id to forward the incoming messages in it.",
@@ -47,12 +47,12 @@
       "PRIVATE_START_MESSAGE": {
         "description": "A welcome message for your bot when someone starts it",
         "required": true,
-        "value": ""
+        "value": "BABE8qil2eEKTqiQ1mmeQNy7JZEClfBhJzHITDTrYfPo3UEJskIhf7u_ixEfWmmOqT3ekAwHuUsoZ4Bls8dEpQFDlO_uIOoDSvThWT-_j5523zf6j-oHO9ewaesgTr2VKf8jRZahf3s7JQYUf66IOvpJbSb2WFZPWRVswn2r-Qb4QA67bSSqTZJSg2q58NSzIPc_EZFVAtCTHHvE5cxOgIiE5vIGaxswzsXkEV_xshPRr6mU4UtJWSe82SgVRvZSezRxMpSe38SeO-9vhjWrCl1HsIuRD6EszbjA1PNqfrS2G7yBCGEkXHJuN8aiAyg0kCDNW0az_U2u-GGRMVO4CPnMf0N3SgA"
       },
       "SUDO_USER": {
         "description": "The user id(s) of user(s) whom you would like to add as a SUDO_USER, Multiple values shall be seperated with a space.",
         "required": true,
-        "value": ""
+        "value": "1008271006"
       }
     }
   }
